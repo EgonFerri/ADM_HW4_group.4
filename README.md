@@ -1,5 +1,5 @@
 # HM4- GROUP 4
-#### FLAMINIA MATTEUCCI, EGON FERRI, MASHA HADIKANLOO
+#### FLAMINIA MATTEUCCI, EGON FERRI, MAHSA HADIKHANLOO
 
 ## 1) Does basic house information reflect house's description?
 
