@@ -21,5 +21,5 @@ We are given [`passwords2.txt`](https://drive.google.com/open?id=1wTmOU-yqk4qdQY
 	> This script provides the code of our analisys. To maximize the visual experience we suggest to read the notebook from [Here](https://nbviewer.jupyter.org/github/EgonFerri/ADM_HW4_group.4/blob/master/Homework4.ipynb).
 
 <p align="center">
-<img src="https://vignette.wikia.nocookie.net/disney/images/3/3e/Flynn-Fletcher_House_2.jpg/revision/latest?cb=20130523025645">
+<img src="https://it.mathworks.com/help/examples/images/win64/SmoothImageWithGaussianFiltersExample_01.png">
 </p>
